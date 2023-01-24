@@ -1,10 +1,12 @@
 # Project-4
 
-### **Group 6**
+### **Group 6**  
 __Team members:__\
 :point_right:Myrna Deseo\
 :point_right:Mohammed Hamdouna\
 :point_right:Rasika Senadheera
+
+ ![image](https://user-images.githubusercontent.com/110227464/214265971-b7b7752e-e9aa-4a99-8671-b317adb6cce7.png)
 
 
 ## CO<sub>2</sub> Emissions Quantifying Sources and Emission Levels   (Kaggal)

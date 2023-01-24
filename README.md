@@ -3,6 +3,6 @@
 
 **Group 6**\
 Team members:\
-:slightly_smiling_face:Myrna Deseo\
-:slightly_smiling_face:Mohammed Hamdouna\
-:slightly_smiling_face:Rasika Senadheera
+:point_right:Myrna Deseo\
+:point_right:Mohammed Hamdouna\
+:point_right:Rasika Senadheera

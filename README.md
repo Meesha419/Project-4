@@ -80,7 +80,7 @@ Before choosing the model, following were considered:
 
 
 # Conclusion
-The top 15 CO2 producing countries are consistent through the five main sources (coal, oil, gas, cement, flaring).\
-Clear downward trend in CO2 emission from coal were observed in both the USA and Australia.\
-Four models were used (linear, lasso, ridge and elastic net) to best predict the total CO2 emissions.\
-All four models showed an accuracy of greater than 95%.
+* The top 15 CO2 producing countries are consistent through the five main sources (coal, oil, gas, cement, flaring).\
+* Clear downward trend in CO2 emission from coal were observed in both the USA and Australia.\
+* Four models were used (linear, lasso, ridge and elastic net) to best predict the total CO2 emissions.\
+* All four models showed an accuracy of greater than 95%.

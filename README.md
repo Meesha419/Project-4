@@ -40,4 +40,5 @@ Before choosing the model, following were considered:
 - Clustering or Dimensionality Reduction? (Unsupervised Learning)
 - Reinforcement Learning? 
 
- 
+ ![image](https://user-images.githubusercontent.com/110227464/215320391-6a4c2371-2133-4ac1-a1c6-bf4f3c76f0b8.png)
+

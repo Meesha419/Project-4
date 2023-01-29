@@ -42,6 +42,9 @@ Before choosing the model, following were considered:
 
 ![image](https://user-images.githubusercontent.com/110227464/215320433-2e074957-6b29-4389-a1cd-faa22e397546.png)
 
+
+### Following achieved using train_test_split from sklearn
+
 **Linear Regression**
   + Training Score: 99.99 %
   + Testing Score: 99.99 %

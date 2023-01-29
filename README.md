@@ -15,7 +15,7 @@ https://www.kaggle.com/datasets/thedevastator/global-fossil-co2-emissions-by-cou
 About the dataset:\
 This dataset provides an in-depth look into the global CO2 emissions at the country-level, allowing for a better understanding of how much each country contributes to the global cumulative human impact on climate. It contains information on total emissions as well as from coal, oil, gas, cement production and flaring, and other sources. The data also provides a breakdown of per capita CO2 emission per country - showing which countries are leading in pollution levels and identifying potential areas where reduction efforts should be concentrated. This dataset is essential for anyone who wants to get informed about their own environmental footprint or conduct research on international development trends.
 
-### Objective:
+## Objective:
 1. Visualisations of the CO2 emission by country.
 2. Determine the top 15 countries that has highest CO2 emission.
 3. Track a country’s progress in reducing CO2 emissions.
@@ -44,7 +44,6 @@ Before choosing the model, following were considered:
 
 
 ### Following achieved using "train_test_split" from sklearn
-
 **Linear Regression**
   + Training Score: 99.99 %
   + Testing Score: 99.99 %
@@ -63,7 +62,6 @@ Before choosing the model, following were considered:
 
 
 ### Using manual split with .loc[] with 70% training data and 30% testing data
-
 **Linear Regression**
 + Training Score: 99.99 %
 + Testing Score: 99.99 %
@@ -81,8 +79,8 @@ Before choosing the model, following were considered:
 + Testing Score: 99.37 %
 
 
-### Conclusion
-The top 15 CO2 producing countries are consistent through the five main sources (coal, oil, gas, cement, flaring).
-Clear downward trend in CO2 emission from coal were observed in both the USA and Australia.
-Four models were used (linear, lasso, ridge and elastic net) to best predict the total CO2 emissions.
+# Conclusion
+The top 15 CO2 producing countries are consistent through the five main sources (coal, oil, gas, cement, flaring).\
+Clear downward trend in CO2 emission from coal were observed in both the USA and Australia.\
+Four models were used (linear, lasso, ridge and elastic net) to best predict the total CO2 emissions.\
 All four models showed an accuracy of greater than 95%.

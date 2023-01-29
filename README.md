@@ -40,5 +40,21 @@ Before choosing the model, following were considered:
 - Clustering or Dimensionality Reduction? (Unsupervised Learning)
 - Reinforcement Learning? 
 
- ![image](https://user-images.githubusercontent.com/110227464/215320391-6a4c2371-2133-4ac1-a1c6-bf4f3c76f0b8.png)
+![image](https://user-images.githubusercontent.com/110227464/215320433-2e074957-6b29-4389-a1cd-faa22e397546.png)
+
+Linear Regression
+Training Score: 99.99 %
+Testing Score: 99.99 %
+
+Lasso Regression
+Training Score: 99.99 %
+Testing Score: 99.99 %
+
+Ridge Model
+Training Score: 99.99 %
+Testing Score: 99.99 %
+
+Elastic Net Model
+Training Score: 98.48 %
+Testing Score: 98.89 %
 

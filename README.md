@@ -62,6 +62,8 @@ Before choosing the model, following were considered:
   + Testing Score: 98.89 %
 
 
+### Using manual split with .loc[] with 70% training data and 30% testing data
+
 **Linear Regression**
 + Training Score: 99.99 %
 + Testing Score: 99.99 %

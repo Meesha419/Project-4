@@ -24,3 +24,7 @@ Objective:
 
 Data Cleanup - checked for missing values using a visual matrix below_)
 ![image](https://user-images.githubusercontent.com/110227464/215319767-7b6686e7-4efd-4308-be57-f446590e6d23.png)
+
+![image](https://user-images.githubusercontent.com/110227464/215319900-d2dd9bda-2ec6-4441-8e93-9e9d65d3af68.png)
+
+![image](https://user-images.githubusercontent.com/110227464/215319944-4a75492f-2db7-4773-9028-cafb8cc5d995.png)

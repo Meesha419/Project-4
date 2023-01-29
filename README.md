@@ -62,19 +62,19 @@ Before choosing the model, following were considered:
   + Testing Score: 98.89 %
 
 
-**Linear Regression
+**Linear Regression**
 + Training Score: 99.99 %
 + Testing Score: 99.99 %
 
-**Lasso Regression
+**Lasso Regression**
 + Training Score: 99.99 %
 + Testing Score: 99.99 %
 
-**Ridge Model
+**Ridge Model**
 + Training Score: 99.99 %
 + Testing Score: 99.99 %
 
-**Elastic Net Model
+**Elastic Net Model**
 + Training Score: 97.17 %
 + Testing Score: 99.37 %
 

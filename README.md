@@ -22,4 +22,5 @@ Objective:
 4. Determine models that best predict the target parameter (total CO2 emissions) with an accuracy of greater than 75%
 
 
-
+Data Cleanup - checked for missing values using a visual matrix below_)
+![image](https://user-images.githubusercontent.com/110227464/215319767-7b6686e7-4efd-4308-be57-f446590e6d23.png)

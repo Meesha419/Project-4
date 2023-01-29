@@ -34,12 +34,10 @@ Visualisations:
 ![image](https://user-images.githubusercontent.com/110227464/215320078-161cf17c-14f0-4fdc-88a6-ffaca9307d9d.png)
 
 
-Things to consider before choosing model:
+Before choosing the model, following were considered:
 
-Classification or Regression? (Supervised Learning)
-
-Clustering or Dimensionality Reduction? (Unsupervised Learning)
-
-Reinforcement Learning? 
+- Classification or Regression? (Supervised Learning)
+- Clustering or Dimensionality Reduction? (Unsupervised Learning)
+- Reinforcement Learning? 
 
  
